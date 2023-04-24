@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    font-size: 10px;
+    font-family: "futura";
+    color: aliceblue;
+    position: relative;
+    background-color: black;
+}
+
+.Card{
+width: 100%;
+font-size: 3em;
+}
+
+.zagolovok{
+    margin-top: 1em;
+    margin-left: 0.5em;
+}
+.fruit{
+    position: absolute;
+}
+
+.mor{ 
+width: 4em;
+}
+
+.kor{
+width: 20em;
+margin-left: 12em;
+margin-top: 5em;
+}
+.one{
+    margin-left: 10em;
+    margin-top: 3em;
+}
+
+.two{
+    margin-left: 20em;
+    margin-top: 3em;
+}
+
+.tttree{
+    margin-left: 30em;
+    margin-top: 3em;
+}
+
+.mainclass{
+    font-size: 20px;
+
+}
+
+ul{
+    font-size: 3em;
+    margin: 1em;
+    
+}
+
+.spisok{
+    position: absolute;
+    width: 100%;
+    margin-top: 20em;
+}
+
+li{
+    font-size: 0.7em;
+    margin: 1em;
+}
+
+p{
+    font-size: 2em; 
+}
+/* 16*5=80px */
+
+
+
+/* h1{
+    font-size: 2rem;
+} */
+
